@@ -21,6 +21,6 @@ public class GeneraFile {
             System.exit(1);
             e.printStackTrace();
         }
-    }    
+    }
 
 }
